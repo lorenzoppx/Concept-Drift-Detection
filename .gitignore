@@ -1,0 +1,5 @@
+Part-1-Extract-Data/collect_material.ps1
+venv*
+*/venv*
+*/venv*/*
+Part-1-Extract-Data/Data-Extracted/*
