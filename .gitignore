@@ -3,3 +3,7 @@ venv*
 */venv*
 */venv*/*
 Part-1-Extract-Data/Data-Extracted/*
+*.csv
+*.ini
+*/.ipynb_checkpoints/
+.tmp.driveupload/*
