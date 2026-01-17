@@ -108,6 +108,7 @@ for file_path_origin in glob.glob("*.csv"):
         print(f"iteration:{x}")
 
         row = df.iloc[[x]]
+
         row_dict = {
         'E' : ast.literal_eval(row['embedding_openclip_text'].values[0]),
         'Data' : row['time'].values[0],
